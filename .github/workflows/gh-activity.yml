@@ -1,0 +1,9 @@
+- name: Recent GitHub Activity - Profile Readme
+  # You may pin to the exact commit or the version.
+  # uses: Readme-Workflows/recent-activity@9a03c21058f9b9cf96b899e992c67eb797b44702
+  uses: Readme-Workflows/recent-activity@v2.3.2
+  with:
+    # Your GitHub username
+    GH_USERNAME: Advik-B
+    # Path to configuration file
+    CONFIG_FILE: # optional, default is ./.github/recent-activity.config.yml
