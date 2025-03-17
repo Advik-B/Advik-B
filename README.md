@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning: How to move on
+- 🌱 I’m currently learning: Go, C++
 - 👯 I’m looking to collaborate on: nothing
 - 📫 How to reach me: `don't`
 - ⚡ Fun fact: I **LOVE** FOOD
