@@ -45,10 +45,10 @@
 ### 📈 My GitHub Metrics
 
 <!-- Main Metrics -->
-![Metrics](https://raw.githubusercontent.com/Advik-B/Advik-B/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Advik-B/Advik-B/refs/heads/about-me/github-metrics.svg)
 
 <!-- Extra Metrics -->
-![Stars & Habits](https://raw.githubusercontent.com/Advik-B/Advik-B/metrics.plugin.stars.svg)
+![Stars & Habits](https://raw.githubusercontent.com/Advik-B/Advik-B/refs/heads/about-me/metrics.plugin.stars.svg)
 
 ---
 
