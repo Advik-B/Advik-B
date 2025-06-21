@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Advik</h1>
+<h1 align="center">I'm Advik</h1>
 <h3 align="center">Software Developer • Tinkerer • Open Source Enthusiast</h3>
 
 <p align="center">
