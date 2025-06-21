@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Advik</h1>
+<h1 align="center">Hi 👋, I'm Advik B</h1>
 <h3 align="center">Software Developer • Tinkerer • Open Source Enthusiast</h3>
 
 <p align="center">
@@ -10,19 +10,10 @@
 ### 🚀 Projects I'm proud of
 
 - 🧱 [**Obsidian Launcher**](https://github.com/Advik-B/Obsidian-Launcher)  
-  *Custom Minecraft Launcher with modern UI and feature-rich design*
-
 - 📚 [**Z-Library**](https://github.com/Advik-B/Z-Library)  
-  *A powerful client for Z-Library with offline caching and search*
-
 - 🎮 [**2048**](https://github.com/Advik-B/2048)  
-  *Classic puzzle game written from scratch, just for fun*
-
 - 🧠 [**Wattpad API Java**](https://github.com/Advik-B/Wattpad-API-Java)  
-  *Unofficial Java client for accessing Wattpad stories programmatically*
-
 - 📑 [**AI Resume Parser**](https://github.com/KeertiKiran/AI-ResumeParser)  
-  *Smart parser that extracts information from resumes using AI techniques*
 
 ---
 
@@ -38,29 +29,27 @@
 
 ### 🌱 Currently Building
 
-- 🎮 A performant Minecraft clone from scratch in **C++**, using **OpenGL**, **GLFW**, **ImGui**, and **Protobuf**
-- 📼 **ChopMedia** – A cross-platform video clipper in C++ with FFmpeg, OpenCV, and ImGui
-- 🌐 Web-based control panel embedded into C++ apps via **CEF** (Chromium Embedded Framework)
+- 🎮 Minecraft clone in **C++**
+- 📼 **ChopMedia** – Cross-platform video clipper (C++ + ImGui + FFmpeg)
+- 🌐 CEF-embedded web control panels
 
 ---
 
 ### 📫 Let's connect
 
-- Email: advik.b@gmail.com
-- LinkedIn: [advikb](https://www.linkedin.com/in/advikb/)
+- Email: advikbommu@gmail.com  
 - Discord: `advik.b`
 
 ---
 
-### 📈 Stats
+### 📈 My GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Advik-B&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Advik-B&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!-- Main Metrics -->
+![Metrics](https://raw.githubusercontent.com/Advik-B/Advik-B/github-metrics.svg)
+
+<!-- Extra Metrics -->
+![Stars & Habits](https://raw.githubusercontent.com/Advik-B/Advik-B/metrics.plugin.stars.svg)
 
 ---
 
-> "I love creating things that solve real problems — and occasionally, reinventing the wheel just for the fun of it."
-
+> “I love creating things that solve real problems — and occasionally, reinventing the wheel just for the fun of it.”
