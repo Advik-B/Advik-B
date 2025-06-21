@@ -8,6 +8,10 @@ on:
 jobs:
   base-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: prod
+    permissions:
+      contents: write
     steps:
       - name: 📊 Generate Main Metrics
         uses: lowlighter/metrics@latest
@@ -37,6 +41,10 @@ jobs:
 
   stars-habits:
     runs-on: ubuntu-latest
+    environment: 
+      name: prod
+    permissions:
+      contents: write
     steps:
       - name: ⭐ Generate Stars + Habits Metrics
         uses: lowlighter/metrics@latest
