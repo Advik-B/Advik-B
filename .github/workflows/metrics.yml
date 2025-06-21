@@ -2,7 +2,7 @@ name: 🧮 Generate GitHub Profile Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
+    - cron: "0 */6 * * *"  # Every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -54,9 +54,6 @@ jobs:
           filename: metrics.plugin.stars.svg
           base: ""
           config_timezone: Asia/Kolkata
-
-          plugin_stars: yes
-          plugin_stars_limit: 5
 
           plugin_followers: yes
 
