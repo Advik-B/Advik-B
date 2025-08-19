@@ -54,7 +54,7 @@
 
 ### 📫 Let's connect
 
-- Email: advikbommu@gmail.com  
+- Email: advik.b@gmail.com  
 - Discord: `advik.b`
 
 ---
