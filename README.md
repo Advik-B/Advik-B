@@ -69,4 +69,4 @@
 
 ---
 
-> “I love creating things that solve real problems — and occasionally, reinventing the wheel just for the fun of it.”
+> I love creating things that solve real problems — and occasionally, reinventing the wheel just for the fun of it.
