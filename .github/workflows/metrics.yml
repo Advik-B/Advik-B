@@ -32,11 +32,7 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
+          
           plugin_traffic: yes
 
   stars-habits:
