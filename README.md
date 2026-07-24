@@ -22,33 +22,26 @@
 
 ### 🚀 Projects I'm proud of
 
-- 🧱 [**Obsidian Launcher**](https://github.com/Advik-B/Obsidian-Launcher)  
+<!-- - 🧱 [**Obsidian Launcher**](https://github.com/Advik-B/Obsidian-Launcher)  
 - 📚 [**Z-Library**](https://github.com/Advik-B/Z-Library)  
 - 🎮 [**2048**](https://github.com/Advik-B/2048)  
 - 🧠 [**Wattpad API Java**](https://github.com/Advik-B/Wattpad-API-Java)  
 - 📑 [**AI Resume Parser**](https://github.com/KeertiKiran/AI-ResumeParser)  
 
----
+-->
+(See my pinned projects in my github)
 
 ### 🛠️ Technologies I work with
 
 <p>
   <p>Languages</p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,go,java,python,lua,godot,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,cs,go,java,python,lua,godot,javascript,html,css" />
   <br>
   <p>Frameworks, Libraries, and Tools</p>
   <img src="https://skillicons.dev/icons?i=cmake,dotnet,qt,tauri,fastapi,tailwind,github,git,linux,windows" />
   <p>Integrated Development Environmnts</p>
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,clion,idea,pycharm" />
 </p>
-
----
-
-### 🌱 Currently Building
-
-- 🎮 Minecraft clone in **C++**
-- 📼 **ChopMedia** – Cross-platform video clipper (C++ + ImGui + FFmpeg)
-- 🌐 CEF-embedded web control panels
 
 ---
 
