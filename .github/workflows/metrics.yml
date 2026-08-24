@@ -53,8 +53,6 @@ jobs:
           base: ""
           config_timezone: Asia/Kolkata
 
-          plugin_followers: yes
-
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
