@@ -22,14 +22,8 @@
 
 ### 🚀 Projects I'm proud of
 
-<!-- - 🧱 [**Obsidian Launcher**](https://github.com/Advik-B/Obsidian-Launcher)  
-- 📚 [**Z-Library**](https://github.com/Advik-B/Z-Library)  
-- 🎮 [**2048**](https://github.com/Advik-B/2048)  
-- 🧠 [**Wattpad API Java**](https://github.com/Advik-B/Wattpad-API-Java)  
-- 📑 [**AI Resume Parser**](https://github.com/KeertiKiran/AI-ResumeParser)  
-
--->
-(See my pinned projects in my github)
+<!-- Automatically generated from the repositories pinned on my GitHub profile. -->
+![Pinned projects](https://raw.githubusercontent.com/Advik-B/Advik-B/refs/heads/about-me/metrics.plugin.repositories.svg)
 
 ### 🛠️ Technologies I work with
 

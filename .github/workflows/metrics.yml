@@ -2,21 +2,24 @@ name: 🧮 Generate GitHub Profile Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 12 hours
+    - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
 
 jobs:
   base-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: prod
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
       - name: 📊 Generate Main Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           user: Advik-B
           template: classic
           config_timezone: Asia/Kolkata
@@ -37,15 +40,14 @@ jobs:
 
   stars-habits:
     runs-on: ubuntu-latest
-    environment: 
-      name: prod
+    timeout-minutes: 20
     permissions:
       contents: write
     steps:
       - name: ⭐ Generate Stars + Habits Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           user: Advik-B
           filename: metrics.plugin.stars.svg
           base: ""
@@ -58,3 +60,21 @@ jobs:
           plugin_habits_charts: yes
 
           plugin_repositories: yes
+
+  pinned-projects:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: 📌 Generate Pinned Projects
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ github.token }}
+          user: Advik-B
+          filename: metrics.plugin.repositories.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
