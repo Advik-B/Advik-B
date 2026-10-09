@@ -6,15 +6,17 @@
 </p>
 
 <p>
-  I'm a self-taught software developer with a deep passion for systems programming, game development, and open-source projects.  
-  I love building tools that are fast, lightweight, and give me full control, whether that's a custom Minecraft launcher, a standalone video editor, or a full game engine clone.
+  I'm a self-taught software developer with a deep passion for systems programming, and game development.  
+  I love building tools that are fast, lightweight, and give me full control.
   <br><br>
-  My current focus is on C++ development, especially around graphics programming, performance optimization, and low-level architecture.  
-  I enjoy experimenting with modern tech stacks like ImGui, GLFW, OpenGL, FFmpeg, and Chromium Embedded Framework to create seamless desktop experiences.
+  My current focus is on C++/Rust development, especially around graphics programming, performance optimization, and low-level architecture.  
+  I enjoy experimenting with modern tech stacks like Tauri, Avalonia, and Slint, o create seamless desktop experiences.
   <br><br>
-  I'm also a strong believer in building things from scratch to truly understand how they work — whether it's rendering pipelines, file parsers, or multiplayer backends.
+  I'm also a strong believer in building things from scratch to truly understand how they work, whether it's rendering pipelines, file parsers, or multiplayer backends.
   <br><br>
   Outside of code, I like taking on challenging side projects that teach me something new, collaborating on open-source initiatives, and occasionally reinventing the wheel for fun.
+  <br><br>
+  I have *MANY* side projects.
 </p>
 
 
@@ -42,7 +44,7 @@
 ### 📫 Let's connect
 
 - Email: advik.b@gmail.com  
-- Discord: `advik.b`
+- Discord: `advik.b` **// Inactive** 
 
 ---
 
@@ -56,4 +58,4 @@
 
 ---
 
-> I love creating things that solve real problems — and occasionally, reinventing the wheel just for the fun of it.
+> I love creating things and occasionally, reinventing the wheel just for the fun of it.
